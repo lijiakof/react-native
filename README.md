@@ -1,4 +1,4 @@
-# React Native
+# React Native 从入门到放弃
 
 * [React Native 极速指南](docs/react-native-tutorial.md)
 * [React Native 开发环境](docs/react-native-environment.md)
