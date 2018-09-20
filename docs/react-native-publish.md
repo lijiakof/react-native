@@ -7,6 +7,9 @@
     * 打 Release 包
     * 发布到 Google Play
 * 发布到 https://fir.im/
+* 推广运营
+    * 启动图
+    * App Icon
 
 
 ## iOS
@@ -116,3 +119,32 @@ android {
 * 填写应用名和应用更新日志
 * 生成连接，完成发布
 
+## 推广运营
+
+* iOS 启动图
+    * iPhone Portrait iOS 8-Retina HD 5.5 （1242×2208） @3x
+    * iPhone Portrait iOS 8-Retina HD 5.5 （1242×2208） @3x
+    * iPhone Portrait iOS 8-Retina HD 4.7 （750×1334） @2x
+    * iPhone Portrait iOS 7,8-2x （640×960） @2x
+    * iPhone Portrait iOS 7,8-Retina 4 （640×1136） @2x
+    * iPhone Portrait iOS 5,6-1x （320×480） @1x
+    * iPhone Portrait iOS 5,6-2x （640×960） @2x
+    * iPhone Portrait iOS 5,6-Retina4 （640×1136） @2x
+* iOS Icon
+    * Notification：20pt(2x, 3x)
+    * Settings：29pt(2x, 3x)
+    * Spotlight：40pt(2x, 3x)
+    * App：60pt(2x, 3x)
+    * App Store：1024pt(2x, 3x)
+* Android 启动图
+    * mdpi:
+    * hdpi: 
+    * xhdpi: 
+    * xxhdpi: 
+    * xxxhdpi: 
+* Android Icon
+    * mdpi: 48px
+    * hdpi: 72px
+    * xhdpi: 96px
+    * xxhdpi: 144px
+    * xxxhdpi: 192px

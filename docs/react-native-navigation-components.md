@@ -224,14 +224,20 @@ export default createStackNavigator(NavigationRouteConfigMap, StackNavigatorConf
 ```
 
 # Common Components
-* react-native-i18n
-* react-native-qrcode
-* react-native-splash-screen
-* react-native-svg-icon
-* react-native-svg
-* react-native-vector-icons
-* react-native-device-info
-* react-native-camera
-* react-native-swiper
-* react-native-root-toast
-* [awesome-react-native](https://github.com/jondot/awesome-react-native)
+* Build-in
+    * Text, Button, View ...
+    * StatusBar
+    * RefreshControl
+    * FlatList
+* 3rd-part
+    * react-native-i18n
+    * react-native-qrcode
+    * react-native-splash-screen
+    * react-native-svg-icon
+    * react-native-svg
+    * react-native-vector-icons
+    * react-native-device-info
+    * react-native-camera
+    * react-native-swiper
+    * react-native-root-toast
+    * [awesome-react-native](https://github.com/jondot/awesome-react-native)
