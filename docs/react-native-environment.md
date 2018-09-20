@@ -22,7 +22,7 @@
 * 生成开发者证书
 * 加入设备
 * 生成开发者 Profiles
-* 用 Xcode 代开醒目，配置代码签名：
+* 用 Xcode 打开项目，配置代码签名：
     * TTARGETS -> General -> Signing(Debug)
     * https://reactnative.cn/docs/running-on-device/
 * Build 到设备：
