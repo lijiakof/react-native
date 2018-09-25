@@ -11,7 +11,6 @@
     * 启动图
     * App Icon
 
-
 ## iOS
 
 ### 打 Release 包
@@ -137,7 +136,7 @@ android {
     * App：60pt(2x, 3x)
     * App Store：1024pt(2x, 3x)
 * Android 启动图
-    * mdpi:
+    * mdpi: 
     * hdpi: 
     * xhdpi: 
     * xxhdpi: 
